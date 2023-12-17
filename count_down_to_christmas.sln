@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "count_down_to_christmas", "count_down_to_christmas\count_down_to_christmas.pyproj", "{AFCA0849-F6AA-4859-9211-07C974E88BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCA0849-F6AA-4859-9211-07C974E88BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCA0849-F6AA-4859-9211-07C974E88BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8DE082-FF15-47DE-91AD-1CA8065FE293}
+	EndGlobalSection
+EndGlobal
